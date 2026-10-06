@@ -43,7 +43,7 @@ x-tier-reason: portfolio-lead
 x-parent-company: Everyday Health Group (Ziff Davis)
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-10-06'
 tags:
 - Company
 - Consumer
@@ -69,6 +69,8 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- url: https://www.babycenter.com/bc-latest-content.xml?discover
+  type: BlogRSS
 - type: Website
   url: https://www.babycenter.com
 - type: GitHubOrganization
